@@ -1,3 +1,4 @@
+.python_dir
 cmt/boost_test.h.gch
 cmt/new_env_file.sh
 *.pyc
